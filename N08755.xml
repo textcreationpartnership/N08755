@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:011192_0000_0F85CD6D9852F1A8"/>
-            <pb facs="tcp:011192_0001_0F85CD6E615DF248" rendition="simple:additions"/>
+            <pb facs="unknown:011192_0000_0F85CD6D9852F1A8"/>
+            <pb facs="unknown:011192_0001_0F85CD6E615DF248"
+                rendition="simple:additions"/>
             <head>
                <seg rend="decorInit">T</seg>O THE HONORABLE THE GENERAL ASSEMBLY OF THE COLONY OF CONNECTICUT, Convened at New-Haven the Second Thursday of Oct<g ref="char:EOLhyphen"/>ober AD 1769:</head>
             <p>The Memorial of ABEL BUELL of Killingworth Humbly sheweth; That your Memorialist having Experienc'd the Great Goodness of this Honorable Assembly, for which he Begs Leave to render his most Grateful Tribute of thanks, and to Assure them from a Grateful Sense of their Clemency he has made it his unwearied Study to render himself Useful to the Community in which he lives and the American Colonies in general, and by his Unwearied application for a number of months past has Discover'd the Art of Letter-Found<g ref="char:EOLhyphen"/>ing, and as a Specimen of his abilities Presents this Memorial Impress'd with the Types of his Own manufacture, and whareas by an Antient Law of this Colony, this Assembly were Graciously Pleased to <gap reason="illegible: indecipherable" extent="1 word">
